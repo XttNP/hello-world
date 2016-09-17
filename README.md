@@ -1,2 +1,2 @@
 # hello-world
-Hello World!
+Hello World! Xtt = Second derivative of X with respect to t; NP = Non Professional;
